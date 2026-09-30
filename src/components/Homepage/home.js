@@ -84,12 +84,12 @@ const HomePage = () => {
                 Session 02 — Basic Git Commands and Commit Management
               </Link>
             </li>
-            {/* <li>
+            <li>
               <Link to="/sessions/session-03">
                 Session 03 — Branching, Merging, and Conflict Resolution
               </Link>
             </li>
-            <li>
+            {/*<li>
               <Link to="/sessions/session-04">
                 Session 04 — Advanced Git Commands and Operations
               </Link>
