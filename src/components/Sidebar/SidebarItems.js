@@ -22,10 +22,10 @@ export const sidebarItems = [
         title: "Session 04 — Advanced Git Commands and Operations",
         path: "/sessions/session-04",
       },
-      // {
-      //   title: "Session 05 — AI Integration with GitHub",
-      //   path: "/sessions/session-05",
-      // },
+      {
+        title: "Session 05 — AI Integration with GitHub",
+        path: "/sessions/session-05",
+      },
       // {
       //   title: "Session 06 — Continuous Integration / Continuous Deployment",
       //   path: "/sessions/session-06",
