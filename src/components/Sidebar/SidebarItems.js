@@ -10,10 +10,10 @@ export const sidebarItems = [
         title: "Session 01 — Introduction to Version Control Systems, Git, and GitHub",
         path: "/sessions/session-01",
       },
-      // {
-      //   title: "Session 02 — Building Blocks with Bootstrap Components",
-      //   path: "/sessions/session-02",
-      // },
+      {
+        title: "Session 02 — Building Blocks with Bootstrap Components",
+        path: "/sessions/session-02",
+      },
       // {
       //   title: "Session 03 — Getting Started with jQuery",
       //   path: "/sessions/session-03",
