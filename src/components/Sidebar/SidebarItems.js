@@ -14,10 +14,10 @@ export const sidebarItems = [
         title: "Session 02 — Building Blocks with Bootstrap Components",
         path: "/sessions/session-02",
       },
-      // {
-      //   title: "Session 03 — Getting Started with jQuery",
-      //   path: "/sessions/session-03",
-      // },
+      {
+        title: "Session 03 — Getting Started with jQuery",
+        path: "/sessions/session-03",
+      },
       // {
       //   title: "Session 04 — Mastering jQuery Techniques",
       //   path: "/sessions/session-04",
