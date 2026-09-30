@@ -79,13 +79,12 @@ const HomePage = () => {
                 Session 01 — Introduction to Version Control Systems, Git, and GitHub
               </Link>
             </li>
-            {/* Uncomment these when you create the other session pages */}
-            {/* <li>
+            <li>
               <Link to="/sessions/session-02">
                 Session 02 — Basic Git Commands and Commit Management
               </Link>
             </li>
-            <li>
+            {/* <li>
               <Link to="/sessions/session-03">
                 Session 03 — Branching, Merging, and Conflict Resolution
               </Link>
