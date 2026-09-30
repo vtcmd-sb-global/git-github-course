@@ -94,12 +94,12 @@ const HomePage = () => {
                 Session 04 — Advanced Git Commands and Operations
               </Link>
             </li>
-            {/*<li>
+            <li>
               <Link to="/sessions/session-05">
                 Session 05 — AI Integration with GitHub
               </Link>
             </li>
-            <li>
+            {/*<li>
               <Link to="/sessions/session-06">
                 Session 06 — Continuous Integration / Continuous Deployment
               </Link>
