@@ -26,10 +26,10 @@ export const sidebarItems = [
         title: "Session 05 — AI Integration with GitHub",
         path: "/sessions/session-05",
       },
-      // {
-      //   title: "Session 06 — Continuous Integration / Continuous Deployment",
-      //   path: "/sessions/session-06",
-      // },
+      {
+        title: "Session 06 — Continuous Integration / Continuous Deployment",
+        path: "/sessions/session-06",
+      },
     ],
   },
 ];
