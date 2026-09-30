@@ -18,11 +18,10 @@ export const sidebarItems = [
         title: "Session 03 — Branching, Merging, and Conflict Resolution",
         path: "/sessions/session-03",
       },
-      // Uncomment these when you create the remaining sessions
-      // {
-      //   title: "Session 04 — Advanced Git Commands and Operations",
-      //   path: "/sessions/session-04",
-      // },
+      {
+        title: "Session 04 — Advanced Git Commands and Operations",
+        path: "/sessions/session-04",
+      },
       // {
       //   title: "Session 05 — AI Integration with GitHub",
       //   path: "/sessions/session-05",
