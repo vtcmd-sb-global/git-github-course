@@ -65,7 +65,7 @@ const config = {
         title: 'Git & GitHub Guide',
         logo: {
           alt: 'Git and GitHub Course Logo',
-          src: 'img/logo.jpg', // optional – remove if you don’t have a logo
+          src: 'img/logo.png', // optional – remove if you don’t have a logo
         },
         items: [
           {
