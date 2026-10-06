@@ -34,7 +34,7 @@ export default function Sidebar() {
                   {item.title}
                   <span>{openCategories[item.title] ? '▾' : '▸'}</span>
                 </button>
-  
+
                 {openCategories[item.title] && (
                   <ul className={styles.subItems}>
                     {item.children.map((child) => (
